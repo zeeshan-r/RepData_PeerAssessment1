@@ -1,8 +1,6 @@
 ---
 title: "Activity Monitoring Data"
-#output: md_document
 output:
-  
   html_document:
     df_print: paged
   pdf_document: default
